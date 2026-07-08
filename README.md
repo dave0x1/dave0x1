@@ -49,14 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kojusola-david&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojusola-david&layout=compact)
-
----
-
 ### 📫 Reach Me
 
 - Blog: [kojusola-david.github.io](https://kojusola-david.github.io)
