@@ -11,7 +11,6 @@
 - 🎓 300-level Computer Science
 - 🛠️ Backend-focused developer — APIs, server architecture, and real-time systems
 - ♟️ Chess player
-- ✍️ I write about what I'm learning on my [technical blog](https://kojusola-david.github.io)
 
 ---
 
